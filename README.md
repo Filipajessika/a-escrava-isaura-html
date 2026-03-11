@@ -34,10 +34,7 @@ Neste projeto, demonstro os seguintes conceitos de HTML:
 2. Abra o arquivo `index.html` em qualquer navegador web moderno (como Chrome, Firefox ou Safari).
 3. Navegue pelas páginas usando os links fornecidos.
 
-## Autor
+## Próximas melhorias
 
-Criado por Filipa Silva como parte de um exercício de aprendizado em HTML.
-
-## Licença
-
-Este projeto é para fins educacionais e não possui licença específica.
+- Implementar CSS para melhorar a aparência visual das páginas.
+- Incluir JavaScript para interatividade, como um quiz sobre a novela ou uma galeria de fotos interativa.

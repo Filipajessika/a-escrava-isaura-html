@@ -34,6 +34,15 @@ Neste projeto, demonstro os seguintes conceitos de HTML:
 2. Abra o arquivo `index.html` em qualquer navegador web moderno (como Chrome, Firefox ou Safari).
 3. Navegue pelas páginas usando os links fornecidos.
 
+## Deploy
+
+O projeto está hospedado no Cloudflare Pages. Você pode acessar o site ativo em: [https://196b10fc.a-escrava-isaura.pages.dev](https://196b10fc.a-escrava-isaura.pages.dev)
+
+Para fazer o deploy localmente:
+1. Instale o Wrangler: `npm install -g wrangler`
+2. Faça login: `wrangler auth login`
+3. Execute: `wrangler pages deploy .`
+
 ## Próximas melhorias
 
 - Implementar CSS para melhorar a aparência visual das páginas.
